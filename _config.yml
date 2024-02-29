@@ -73,7 +73,7 @@ theme_mode: # [light | dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://i.pinimg.com/564x/4f/13/14/4f131417c130fce35ae7e80a72e95b36.jpg'
+img_cdn: 'https://github.com/yuonllna/yuonllna.github.io/assets/98378283/c4455fef-928c-46e9-849b-f353d678ec60'
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
